@@ -51,7 +51,7 @@ export class JsonController {
 
 
 
-        return { content: letters };
+        return { content: resultWords };
       } catch (error) {
         return { error: 'An error occurred while reading the file' };
       }
