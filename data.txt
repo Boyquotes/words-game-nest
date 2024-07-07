@@ -1,4 +1,19 @@
 peanut
+low
+far
+wake
+bow
+bark
+barn
+bare
+fun
+lap
+fruitlab
+kneel
+vow
+bakes
+beak
+borrow
 faster
 runner
 runners
@@ -115,6 +130,7 @@ bee
 bees
 beam
 beams
+bean
 beer
 beers
 dad
@@ -187,6 +203,7 @@ broken
 brother
 brown
 building
+burp
 bus
 but
 buy
@@ -593,6 +610,7 @@ probably
 promise
 purpose
 quarter
+queer
 question
 recent
 regular
