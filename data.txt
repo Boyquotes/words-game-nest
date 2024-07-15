@@ -1,4 +1,7 @@
 peanut
+soaps
+soap
+soups
 poor
 root
 woke
@@ -11,6 +14,9 @@ seam
 key
 pay
 foam
+foams
+gasps
+poop
 men
 sewn
 boss
