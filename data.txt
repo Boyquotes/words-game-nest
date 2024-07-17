@@ -1,4 +1,9 @@
 peanut
+fat
+hey
+hint
+joy
+hate
 soaps
 soap
 soups
